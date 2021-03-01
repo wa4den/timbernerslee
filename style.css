@@ -1,0 +1,101 @@
+body {
+
+    
+    background-image: url(https://img.freepik.com/free-photo/pink-blue-leaves-pink-background-with-copyspace-top-side_24972-579.jpg?size=338&ext=jpg);
+    margin: 0;
+    padding-top: 50px;
+    text-align: center;
+}
+
+
+#img1{
+border-radius: 100%;
+    margin-bottom: 0px;
+    margin-top: 10px;
+    height: 400px;
+    width: 300px;
+        
+    
+}
+
+
+#welcome{
+    background: linear-gradient(#00d5ff 50%,#ff8400 100%);
+    width: 100%;
+    font-size: 20;
+    font-family: inherit;
+    z-index: 5;
+    
+    
+    
+    
+    
+}
+
+
+#bio{
+    
+    background-color: linear-gradien(#69fc0d 50%,#fc0d81 100%);
+    color: crimson;
+    font-size: 30;
+    font-family: fantasy;
+    
+    
+    
+    
+}
+
+
+.line{
+    margin: auto;
+    height: 10px;
+    width: 1000px;
+    background-color: black;
+    
+    
+}
+
+.p1{
+  width: 1000px;
+    font-family: cursive;
+    font-size: 30;
+    color: darkmagenta
+    
+    
+    
+}
+
+
+.menu{
+    
+    list-style: none;
+    font-family: sans-serif;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    z-index: 15;
+    cursor: pointer;
+    
+    
+    
+    
+    
+    
+}
+
+.links{
+float: left;
+    color: aqua;
+    padding: 10px;
+    font-family: fantasy;
+    font-size: 30px;
+    
+    
+}
+.h1tim{
+    font-family: Stick;
+    font-size: 50;
+        color:chartreuse;
+    
+    
+}
