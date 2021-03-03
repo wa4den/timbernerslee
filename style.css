@@ -108,6 +108,7 @@ a{
     
     
     
+    
 }
 
 
@@ -141,5 +142,19 @@ font-size: 30px;
 #videos{
 font-size: 30px;
     color: blue;
+    
+}
+
+a:hover{
+    background-color: yellow;
+    
+    
+    
+}
+#contact{
+    
+  font-size: 30px;
+    
+      color:blue
     
 }
