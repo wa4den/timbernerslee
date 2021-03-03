@@ -59,7 +59,8 @@ border-radius: 100%;
   width: 1000px;
     font-family: cursive;
     font-size: 30;
-    color: darkmagenta
+    color: darkmagenta;
+    margin: auto;
     
     
     
@@ -97,5 +98,48 @@ float: left;
     font-size: 50;
         color:chartreuse;
     
+    
+}
+
+a{
+    text-decoration: none;
+    
+    
+    
+    
+    
+}
+
+
+
+.article:hover{
+    color: deeppink;
+    
+    
+    
+    
+}
+
+html{
+scroll-behavior: smooth;
+    
+    
+    
+}
+#writings{
+font-size:30px;
+    color: blue
+    
+    
+    
+}
+#work{
+font-size: 30px;
+    color: blue
+    
+}
+#videos{
+font-size: 30px;
+    color: blue;
     
 }
