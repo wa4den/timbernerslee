@@ -1,238 +1,34 @@
-body {
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
 
-
-    background-image: url(https://img.freepik.com/free-photo/pink-blue-leaves-pink-background-with-copyspace-top-side_24972-579.jpg?size=338&ext=jpg);
-    margin: 0;
-    padding-top: 50px;
+.container
+{
     text-align: center;
 }
 
-
-#img1 {
-    border-radius: 100%;
-    margin-bottom: 0px;
-    margin-top: 10px;
-    height: 400px;
-    width: 300px;
-
-
-}
-
-
-#welcome {
-    background: linear-gradient(#00d5ff 50%, #ff8400 100%);
-    width: 100%;
-    font-size: 20;
-    font-family: inherit;
-    z-index: 5;
-
-
-
-
-
-}
-
-
-#bio {
-
-    background-color: linear-gradien(#69fc0d 50%, #fc0d81 100%);
-    color: crimson;
-    font-size: 30;
-    font-family: fantasy;
-
-
-
-
-}
-
-
-.line {
-    margin: auto;
-    height: 10px;
-    width: 1000px;
-    background-color: black;
-
-
-}
-
-.p1 {
-    width: 1000px;
-    font-family: cursive;
-    font-size: 30;
-    color: darkmagenta;
-    margin: auto;
-
-
-
-}
-
-
-.menu {
-
-    list-style: none;
-    font-family: sans-serif;
-    position: fixed;
-    margin-top: 0px;
-    top: 0px;
-    z-index: 15;
-    cursor: pointer;
-width: 100%;
-    
-    
-
-
-
-
-
-}
-
-.links {
-    float: left;
-    color: aqua;
-    padding: 10px;
-    font-family: fantasy;
-    font-size: 30px;
-    display: inline;
-
-
-}
-
-.links:hover{
-    
-font-size: 25px;
-text-decoration: underline;    
-    
-    
-    
-}
-
-.h1tim {
-    font-family: Stick;
-    font-size: 50;
-    color: chartreuse;
-
-
-}
-
-a {
-    text-decoration: none;
-    color: cyan;
-text-shadow: 2px 2px gainsboro;
-    
-    
-
-
-
-
-
-}
-
-
-
-.article:hover {
-    color: deeppink;
-
-
-
-
-}
-
-html {
-    scroll-behavior: smooth;
-
-
-
-}
-
-#writings {
-    font-size: 30px;
-    color: blue
-        
-}
-
-#writings a{
-text-shadow: none;
-    text-decoration: underline;
-    color: crimson;
-    
+#myCarousel{
+background-color: red;
     
     
 }
 
 
-#work {
-    font-size: 30px;
-    color: blue
-}
-
-#videos {
-    font-size: 30px;
-    color: blue;
-
-}
-
-a:hover {
-    background-color: yellow;
-
-
-
-}
-
-#contact {
-
-    font-size: 30px;
-
-    color: blue
-}
-
-#app{
-width: 100%;
-    height: 800px;
-    background-image: url(https://image.freepik.com/free-vector/gradient-wallpaper-background_1159-5356.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding: 50;
+#myCarousel img{
     
-}
-#game{
-width: 100%;
-height: 800px;    
-background-color: chartreuse;
-}
-
-img{
-transition: transform .2s;
+height: 300px;
+    margin-top: 35px;
     
-        
-}
-
-img:hover{
-transform: scale(0.9);    
-}
-
-
-#chatbot{
-    
-width: 100%;
-height: 800px;
-background-image: url(https://www.syncfusion.com/blogs/wp-content/uploads/2020/01/tile.jpg);    
     
     
 }
 
-.contact1 a{
+.carousel-inner p{
     
-color:cyan;
-    text-shadow: none;
-    display: inline;
-    font-size: 25px;
-    
-    
-}
-
-.contact1 h3{
-    
-display: inline    
-    
-    
+margin-bottom: 15px;    
+    margin-top: 15p;
+    color: aliceblue;
+    font-size: 20px
 }
